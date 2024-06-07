@@ -1,0 +1,37 @@
+body {
+    background-color: blue;
+    font-size: 2rem;
+}
+
+header {
+    margin: 0  ;
+    background-color: rgb(255, 0, 0);
+    height: 300px;
+    padding: 0;
+}
+
+header > h1 {
+    text-align: center;
+}
+img {
+    width: 260px;
+    margin-top: 20px;
+    }
+section {
+    background-color: bisque;
+    border: 3px solid black;
+}
+section > li {
+    border: 3px solid black;
+}
+.ff {
+    width: 15%;
+    margin: 1% 5% 2%;
+    text-align: center;
+    border: 3px solid black;
+    flex-direction: column;
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+    box-shadow: 3px 2px 2px black, 6px 5px 6px blueviolet;
+}
