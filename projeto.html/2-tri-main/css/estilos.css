@@ -35,3 +35,6 @@ section > li {
     align-items: center;
     box-shadow: 3px 2px 2px black, 6px 5px 6px blueviolet;
 }
+ul li {
+    display: inline-block;
+}
