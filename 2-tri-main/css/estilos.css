@@ -42,13 +42,13 @@ section > li {
     justify-content: flex-end;
     display: flex;
     align-items: center;
-    box-shadow: 3px 2px 2px black, 6px 5px 6px blueviolet;
+    box-shadow: 3px 2px 2px black, 6px 5px 6px rgb(156, 100, 209);
 }
 ul li {
     display: inline-block;
 }
 nav {
-    background-color: blueviolet;
+    background-color: rgb(54, 89, 155);
     width: flex;
     justify-content: space-around;
     flex-direction: row;
