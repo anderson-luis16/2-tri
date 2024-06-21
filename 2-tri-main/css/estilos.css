@@ -5,7 +5,7 @@ body {
 
 header {
     margin: 0  ;
-    background-color: rgb(255, 0, 0);
+    background-image: linear-gradient(to bottom left, red 45% , blue);
     height: 300px;
     padding: 0;
 }
@@ -80,6 +80,7 @@ footer > p {
 }
 table {
     font-size: 2rem;
+    width: 100%;
 
 }
 th {
@@ -99,4 +100,9 @@ tr:nth-child(odd) {
 td {
 
     padding: 10px;
+}
+#evi {
+    width: 125px;
+    line-height: 2.4rem;
+    background-image: linear-gradient(to bottom left, );
 }
