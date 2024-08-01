@@ -81,7 +81,7 @@ footer > p {
 table {
     font-size: 2rem;
     width: 100%;
-
+    text-align: center;
 }
 th {
     background-color: black;
@@ -105,4 +105,10 @@ td {
     width: 125px;
     line-height: 2.4rem;
     background-image: linear-gradient(to bottom left, );
+}
+#estudos {
+    width: 15%;
+    padding: 2px;
+    font-size: 1.3rem;
+    margin-bottom: 9px;
 }
