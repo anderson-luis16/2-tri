@@ -107,8 +107,31 @@ td {
     background-image: linear-gradient(to bottom left, );
 }
 #estudos {
-    width: 15%;
+    width: 12%;
+    margin-left: 1%;
     padding: 2px;
+    font-size: 1.2rem;
+    margin-bottom: 3px;
+}
+label {
     font-size: 1.3rem;
-    margin-bottom: 9px;
+    margin-left: 1%;
+    margin-right: 0.5%;
+
+}
+#formulario_celular {
+    width: 13%;
+    font-size: 1rem;
+    margin-bottom: 5px;
+    margin-top: 0.5%;
+}
+legend {
+    font-size: 1.3rem;
+    margin-left: 1%;
+}
+fieldset {
+    border: 1px solid black;
+    border-radius: 12px;
+    padding: 6px;
+    width: 60%;
 }
