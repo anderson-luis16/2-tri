@@ -48,10 +48,10 @@ ul li {
     display: inline-block;
 }
 nav {
-    background-color: rgb(54, 89, 155);
-    width: flex;
-    justify-content: space-around;
-    flex-direction: row;
+    background-color: rgba(76, 0, 255, 0.363);
+    width: 100%;
+    position: sticky;
+    top: 0;
 }
 nav > ul {
     width: 100%;
